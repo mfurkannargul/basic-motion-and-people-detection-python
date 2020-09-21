@@ -1,1 +1,1 @@
-# basic-motion-and-people-detection-python
+# Basic Motion and People Detection Python
